@@ -1,0 +1,104 @@
+[14-Oct-2014 15:38:39 America/New_York] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'recaptchlib.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/marqhxuu/public_html/bat/MailHandler.php on line 3
+[14-Oct-2014 15:38:43 America/New_York] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'recaptchlib.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/marqhxuu/public_html/bat/MailHandler.php on line 3
+[14-Oct-2014 15:39:03 America/New_York] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'recaptchlib.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/marqhxuu/public_html/bat/MailHandler.php on line 3
+[14-Oct-2014 15:40:36 America/New_York] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'recaptchlib.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/marqhxuu/public_html/bat/MailHandler.php on line 3
+[14-Oct-2014 15:41:54 America/New_York] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'recaptchlib.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/marqhxuu/public_html/bat/MailHandler.php on line 3
+[14-Oct-2014 15:42:40 America/New_York] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'recaptchlib.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/marqhxuu/public_html/bat/MailHandler.php on line 2
+[14-Oct-2014 15:45:07 America/New_York] PHP Fatal error:  Call to undefined function test() in /home/marqhxuu/public_html/bat/MailHandler.php on line 3
+[14-Oct-2014 15:47:55 America/New_York] PHP Fatal error:  Allowed memory size of 176160768 bytes exhausted (tried to allocate 30720 bytes) in /home/marqhxuu/public_html/bat/MailHandler.php on line 26
+[14-Oct-2014 16:14:49 America/New_York] PHP Catchable fatal error:  Object of class ReCaptchaResponse could not be converted to string in /home/marqhxuu/public_html/bat/MailHandler.php on line 44
+[14-Oct-2014 16:15:20 America/New_York] PHP Catchable fatal error:  Object of class ReCaptchaResponse could not be converted to string in /home/marqhxuu/public_html/bat/MailHandler.php on line 44
+[14-Oct-2014 16:15:53 America/New_York] PHP Catchable fatal error:  Object of class ReCaptchaResponse could not be converted to string in /home/marqhxuu/public_html/bat/MailHandler.php on line 44
+[14-Oct-2014 16:19:46 America/New_York] PHP Catchable fatal error:  Object of class ReCaptchaResponse could not be converted to string in /home/marqhxuu/public_html/bat/MailHandler.php on line 46
+[14-Oct-2014 16:21:39 America/New_York] PHP Fatal error:  Call to undefined function test() in /home/marqhxuu/public_html/bat/MailHandler.php on line 2
+[14-Oct-2014 16:21:52 America/New_York] PHP Fatal error:  Call to undefined function test() in /home/marqhxuu/public_html/bat/MailHandler.php on line 2
+[14-Oct-2014 16:30:36 America/New_York] PHP Fatal error:  Call to undefined function test() in /home/marqhxuu/public_html/bat/MailHandler.php on line 2
+[14-Oct-2014 16:33:08 America/New_York] PHP Fatal error:  Call to undefined function test() in /home/marqhxuu/public_html/bat/MailHandler.php on line 2
+[14-Oct-2014 16:52:38 America/New_York] PHP Fatal error:  Call to undefined function test() in /home/marqhxuu/public_html/bat/MailHandler.php on line 2
+[14-Oct-2014 16:56:30 America/New_York] PHP Fatal error:  Call to undefined function test() in /home/marqhxuu/public_html/bat/MailHandler.php on line 2
+[14-Oct-2014 16:57:28 America/New_York] PHP Fatal error:  Call to undefined function test() in /home/marqhxuu/public_html/bat/MailHandler.php on line 2
+[14-Oct-2014 17:05:41 America/New_York] PHP Fatal error:  Call to undefined function test() in /home/marqhxuu/public_html/bat/MailHandler.php on line 2
+[14-Oct-2014 17:06:03 America/New_York] PHP Fatal error:  Call to undefined function test() in /home/marqhxuu/public_html/bat/MailHandler.php on line 2
+[14-Oct-2014 17:09:30 America/New_York] PHP Fatal error:  Call to undefined function test() in /home/marqhxuu/public_html/bat/MailHandler.php on line 2
+[14-Oct-2014 17:09:44 America/New_York] PHP Fatal error:  Call to undefined function test() in /home/marqhxuu/public_html/bat/MailHandler.php on line 2
+[14-Oct-2014 17:11:04 America/New_York] PHP Fatal error:  Call to undefined function test() in /home/marqhxuu/public_html/bat/MailHandler.php on line 2
+[14-Oct-2014 17:15:46 America/New_York] PHP Fatal error:  Unsupported operand types in /home/marqhxuu/public_html/bat/MailHandler.php on line 110
+[14-Oct-2014 17:16:58 America/New_York] PHP Fatal error:  Call to undefined function _recaptcha_qsencode() in /home/marqhxuu/public_html/bat/MailHandler.php on line 136
+[14-Oct-2014 17:34:38 America/New_York] PHP Fatal error:  Call to undefined function _recaptcha_qsencode() in /home/marqhxuu/public_html/bat/MailHandler.php on line 137
+[14-Oct-2014 17:35:22 America/New_York] PHP Fatal error:  Call to undefined function _recaptcha_qsencode() in /home/marqhxuu/public_html/bat/MailHandler.php on line 137
+[14-Oct-2014 17:36:59 America/New_York] PHP Fatal error:  Unsupported operand types in /home/marqhxuu/public_html/bat/MailHandler.php on line 111
+[14-Oct-2014 17:39:46 America/New_York] PHP Fatal error:  Unsupported operand types in /home/marqhxuu/public_html/bat/MailHandler.php on line 111
+[14-Oct-2014 17:42:24 America/New_York] PHP Fatal error:  Unsupported operand types in /home/marqhxuu/public_html/bat/MailHandler.php on line 111
+[14-Oct-2014 17:42:48 America/New_York] PHP Fatal error:  Unsupported operand types in /home/marqhxuu/public_html/bat/MailHandler.php on line 111
+[14-Oct-2014 17:43:42 America/New_York] PHP Fatal error:  Unsupported operand types in /home/marqhxuu/public_html/bat/MailHandler.php on line 111
+[14-Oct-2014 17:45:41 America/New_York] PHP Fatal error:  Unsupported operand types in /home/marqhxuu/public_html/bat/MailHandler.php on line 110
+[14-Oct-2014 17:47:58 America/New_York] PHP Fatal error:  Unsupported operand types in /home/marqhxuu/public_html/bat/MailHandler.php on line 115
+[14-Oct-2014 17:48:17 America/New_York] PHP Fatal error:  Unsupported operand types in /home/marqhxuu/public_html/bat/MailHandler.php on line 115
+[14-Oct-2014 17:48:30 America/New_York] PHP Fatal error:  Unsupported operand types in /home/marqhxuu/public_html/bat/MailHandler.php on line 115
+[14-Oct-2014 17:50:22 America/New_York] PHP Fatal error:  Unsupported operand types in /home/marqhxuu/public_html/bat/MailHandler.php on line 115
+[14-Oct-2014 17:50:33 America/New_York] PHP Fatal error:  Unsupported operand types in /home/marqhxuu/public_html/bat/MailHandler.php on line 115
+[14-Oct-2014 17:53:46 America/New_York] PHP Fatal error:  Unsupported operand types in /home/marqhxuu/public_html/bat/MailHandler.php on line 109
+[14-Oct-2014 17:57:28 America/New_York] PHP Fatal error:  Unsupported operand types in /home/marqhxuu/public_html/bat/MailHandler.php on line 109
+[14-Oct-2014 18:05:33 America/New_York] PHP Fatal error:  Unsupported operand types in /home/marqhxuu/public_html/bat/MailHandler.php on line 111
+[14-Oct-2014 18:08:06 America/New_York] PHP Fatal error:  Unsupported operand types in /home/marqhxuu/public_html/bat/MailHandler.php on line 111
+[14-Oct-2014 18:11:01 America/New_York] PHP Fatal error:  Unsupported operand types in /home/marqhxuu/public_html/bat/MailHandler.php on line 111
+[14-Oct-2014 18:13:46 America/New_York] PHP Fatal error:  Unsupported operand types in /home/marqhxuu/public_html/bat/MailHandler.php on line 111
+[14-Oct-2014 18:17:14 America/New_York] PHP Fatal error:  Unsupported operand types in /home/marqhxuu/public_html/bat/MailHandler.php on line 111
+[14-Oct-2014 18:18:16 America/New_York] PHP Fatal error:  Unsupported operand types in /home/marqhxuu/public_html/bat/MailHandler.php on line 111
+[14-Oct-2014 18:19:19 America/New_York] PHP Fatal error:  Unsupported operand types in /home/marqhxuu/public_html/bat/MailHandler.php on line 112
+[14-Oct-2014 18:20:50 America/New_York] PHP Fatal error:  Unsupported operand types in /home/marqhxuu/public_html/bat/MailHandler.php on line 112
+[14-Oct-2014 18:21:23 America/New_York] PHP Fatal error:  Unsupported operand types in /home/marqhxuu/public_html/bat/MailHandler.php on line 112
+[14-Oct-2014 18:23:51 America/New_York] PHP Fatal error:  Unsupported operand types in /home/marqhxuu/public_html/bat/MailHandler.php on line 111
+[14-Oct-2014 18:25:53 America/New_York] PHP Fatal error:  Unsupported operand types in /home/marqhxuu/public_html/bat/MailHandler.php on line 112
+[14-Oct-2014 18:28:17 America/New_York] PHP Fatal error:  Unsupported operand types in /home/marqhxuu/public_html/bat/MailHandler.php on line 112
+[14-Oct-2014 18:29:43 America/New_York] PHP Fatal error:  Unsupported operand types in /home/marqhxuu/public_html/bat/MailHandler.php on line 112
+[14-Oct-2014 18:30:56 America/New_York] PHP Fatal error:  Unsupported operand types in /home/marqhxuu/public_html/bat/MailHandler.php on line 112
+[14-Oct-2014 18:32:49 America/New_York] PHP Fatal error:  Unsupported operand types in /home/marqhxuu/public_html/bat/MailHandler.php on line 112
+[14-Oct-2014 18:35:02 America/New_York] PHP Fatal error:  Unsupported operand types in /home/marqhxuu/public_html/bat/MailHandler.php on line 112
+[14-Oct-2014 18:37:00 America/New_York] PHP Fatal error:  Unsupported operand types in /home/marqhxuu/public_html/bat/MailHandler.php on line 112
+[14-Oct-2014 18:43:27 America/New_York] PHP Fatal error:  Unsupported operand types in /home/marqhxuu/public_html/bat/MailHandler.php on line 112
+[14-Oct-2014 18:45:08 America/New_York] PHP Fatal error:  Unsupported operand types in /home/marqhxuu/public_html/bat/MailHandler.php on line 112
+[14-Oct-2014 18:48:34 America/New_York] PHP Fatal error:  Unsupported operand types in /home/marqhxuu/public_html/bat/MailHandler.php on line 111
+[15-Oct-2014 10:25:30 America/New_York] PHP Fatal error:  Unsupported operand types in /home/marqhxuu/public_html/bat/MailHandler.php on line 111
+[15-Oct-2014 10:26:58 America/New_York] PHP Fatal error:  Unsupported operand types in /home/marqhxuu/public_html/bat/MailHandler.php on line 111
+[15-Oct-2014 10:31:22 America/New_York] PHP Fatal error:  Unsupported operand types in /home/marqhxuu/public_html/bat/MailHandler.php on line 111
+[15-Oct-2014 10:32:25 America/New_York] PHP Fatal error:  Unsupported operand types in /home/marqhxuu/public_html/bat/MailHandler.php on line 111
+[15-Oct-2014 10:33:43 America/New_York] PHP Fatal error:  Unsupported operand types in /home/marqhxuu/public_html/bat/MailHandler.php on line 111
+[15-Oct-2014 11:42:54 America/New_York] PHP Fatal error:  Unsupported operand types in /home/marqhxuu/public_html/bat/recaptchalib.php on line 179
+[15-Oct-2014 11:43:19 America/New_York] PHP Fatal error:  Unsupported operand types in /home/marqhxuu/public_html/bat/recaptchalib.php on line 179
+[15-Oct-2014 11:57:55 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'The reCAPTCHA was nott entered correctly. Go back and try it again.' in /home/marqhxuu/public_html/bat/MailHandler.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/marqhxuu/public_html/bat/MailHandler.php on line 54
+[15-Oct-2014 11:59:35 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'The reCAPTCHA was nott entered correctly. Go back and try it again.' in /home/marqhxuu/public_html/bat/MailHandler.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/marqhxuu/public_html/bat/MailHandler.php on line 54
+[15-Oct-2014 12:07:45 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'The reCAPTCHA was nott entered correctly. Go back and try it again.' in /home/marqhxuu/public_html/bat/MailHandler.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/marqhxuu/public_html/bat/MailHandler.php on line 54
+[15-Oct-2014 12:10:29 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'The reCAPTCHA was nott entered correctly. Go back and try it again.' in /home/marqhxuu/public_html/bat/MailHandler.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/marqhxuu/public_html/bat/MailHandler.php on line 54
+[15-Oct-2014 12:20:37 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'The reCAPTCHA was nott entered correctly. Go back and try it again.' in /home/marqhxuu/public_html/bat/MailHandler.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/marqhxuu/public_html/bat/MailHandler.php on line 56
+[15-Oct-2014 12:23:34 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'The reCAPTCHA was nott entered correctly. Go back and try it again.' in /home/marqhxuu/public_html/bat/MailHandler.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/marqhxuu/public_html/bat/MailHandler.php on line 56
+[15-Oct-2014 12:25:57 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'The reCAPTCHA was nott entered correctly. Go back and try it again.' in /home/marqhxuu/public_html/bat/MailHandler.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/marqhxuu/public_html/bat/MailHandler.php on line 56
+[15-Oct-2014 12:40:04 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message '<title>The reCAPTCHA was nott entered correctly. Go back and try it again.</title>' in /home/marqhxuu/public_html/bat/MailHandler.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/marqhxuu/public_html/bat/MailHandler.php on line 56
+[15-Oct-2014 12:44:43 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'The reCAPTCHA was nott entered correctly. Go back and try it again.' in /home/marqhxuu/public_html/bat/MailHandler.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/marqhxuu/public_html/bat/MailHandler.php on line 56
